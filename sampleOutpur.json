@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        },
+        {
+            "source": {
+              "id": null,
+              "name": "Usf.edu"
+            },
+            "author": "Associated Press",
+            "title": "DeSantis kicks off his presidential campaign in Iowa as he steps up criticism of Trump - WUSF Public Media",
+            "description": "His two-day trip to the leadoff caucus state starts Tuesday, followed by stops in early primary states New Hampshire and South Carolina later this week.",
+            "url": "https://wusfnews.wusf.usf.edu/politics-issues/2023-05-30/desantis-presidential-campaign-iowa-steps-up-criticism-trump",
+            "urlToImage": "https://npr.brightspotcdn.com/dims4/default/7252c68/2147483647/strip/true/crop/1024x538+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F17%2F15%2Fa2562b764efdba2fdb4b48643b2f%2Frondesantis-iowa-ap-053023.jpg",
+            "publishedAt": "2023-05-30T09:29:00Z",
+            "content": "Ron DeSantis plans to kick off his presidential campaign in Iowa on Tuesday, the start of a busy week that will take him to 12 cities in three states as he tests his pitch as the most formidable Repu… [+5143 chars]"
+          },
+          {
+            "source": {
+              "id": null,
+              "name": "Yahoo Entertainment"
+            },
+            "author": "Debby Wu and Vlad Savov",
+            "title": "Nvidia CEO Gets Rock Star Reception in Taiwan With AI Stock Surge - Yahoo Finance",
+            "description": "(Bloomberg) -- Jensen Huang, chief executive officer of chip phenom Nvidia Corp., is getting the kind of treatment usually reserved for celebrities and...",
+            "url": "https://finance.yahoo.com/news/nvidia-ceo-gets-rock-star-062444219.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Cqbgn1JIZB6AZxKytzLlzQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDQ-/https://media.zenfs.com/en/bloomberg_markets_842/e913ccd924ea76e6d7469c766d6098b4",
+            "publishedAt": "2023-05-30T09:24:56Z",
+            "content": "(Bloomberg) -- Jensen Huang, chief executive officer of chip phenom Nvidia Corp., is getting the kind of treatment usually reserved for celebrities and sports stars during a trip to Taiwan.\r\nMost Rea… [+4295 chars]"
+          }
+    ]
+}
